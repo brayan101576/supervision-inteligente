@@ -109,7 +109,7 @@ Además: el **celular y el computador deben estar en la misma red Wi-Fi**, y el 
 ## Clonar el repositorio
 
 ```bash
-git clone https://github.com/<tu-usuario>/supervision-inteligente.git
+git clone https://github.com/brayan101576/supervision-inteligente.git
 cd supervision-inteligente
 ```
 
