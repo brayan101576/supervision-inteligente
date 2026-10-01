@@ -1,0 +1,27 @@
+# Dependencias y entornos
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Datos locales y secretos
+postgres_data/
+.env
+*.env.local
+
+# Compilados y cachés
+dist/
+build/
+.expo/
+.vite/
+*.log
+
+# Editor / sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.claude/
+
+# Historial de la plantilla de Expo (renombrado para evitar un repositorio anidado)
+.git-plantilla-expo/
