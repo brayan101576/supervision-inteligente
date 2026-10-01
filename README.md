@@ -179,6 +179,9 @@ npx expo start -c
 ```
 Escanea el código QR con **Expo Go** en tu celular.
 
+### Modo demostración del panel (sin servidor)
+Abriendo el panel con `?demo=1` (por ejemplo <http://localhost:5173/?demo=1>) se muestran **datos de ejemplo locales**, sin necesidad de backend ni inicio de sesión. Sirve para ver el diseño o como respaldo en una presentación; aparece una etiqueta "DEMO" y nada se guarda.
+
 ### Datos de ejemplo (opcional, recomendado para una demo)
 Con el backend corriendo y **al menos una visita real registrada** (para fijar la ubicación de referencia), en otra terminal:
 ```bash
